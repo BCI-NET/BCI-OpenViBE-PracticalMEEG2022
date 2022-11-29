@@ -971,7 +971,7 @@
 					<TypeIdentifier>(0x79a9edeb, 0x245d83fc)</TypeIdentifier>
 					<Name>Frequencies to select</Name>
 					<DefaultValue>8:12;16:24</DefaultValue>
-					<Value>10:15</Value>
+					<Value>8:29</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 			</Settings>
